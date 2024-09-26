@@ -5,8 +5,8 @@ export default {
     extend: {},
   },
   plugins: [require("daisyui")],
-  darkMode: "class", // Enables dark mode using the class strategy
+  darkMode: "class",
   daisyui: {
-    themes: ["light", "dark"], // DaisyUI themes
+    themes: ["light", "dark"],
   },
 };
